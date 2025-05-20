@@ -1,4 +1,4 @@
 n1 = int(input())
 n2 = int(input())
 
-print((n1 + n2) / 2)
+print(f'A soma é {n1 + n2}')
